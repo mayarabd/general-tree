@@ -7,9 +7,6 @@ using namespace std;
 
 /****************************************************
  * name: Mayara Brandao Dusheyko
- * ID: 915 730 756
- * email: mbrandao@sfsu.edu
- * Compile: xcode
  * Description: Implementation of a geral tree
  ******************************************************/
 
